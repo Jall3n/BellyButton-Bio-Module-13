@@ -1,0 +1,13 @@
+body {
+
+    color: rgb(32, 10, 198);
+    background-color: white;
+  }
+
+
+.jumbotron {
+background-image: url("../static/bacteria1.jpg");
+background-size: 100% 100%;
+text-align: center;
+color:white
+}
